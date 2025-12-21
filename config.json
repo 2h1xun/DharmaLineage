@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "  \u003cp\u003e\n    이 그래프는 편양 문파의 제자 \u003cstrong\u003e사암 채영(獅巖采永)\u003c/strong\u003e이 편찬하여 1764년 완주 송광사에 간행한 불교 사서 『서역중화해동불조원류』의 \u0027해동원류\u0027에 실린 3,321명의 승려와 그 법맥을 시각화한 네트워크입니다.\n  \u003c/p\u003e\n\n  \u003csection\u003e\n    \u003cp\u003e\n      『불조원류』는 현재 동국대학교 불교학술원 불교기록문화유산아카이브, 규장각 한국학연구원, 국립중앙도서관, 용화사 묵담유물관, 고려대학교 중앙도서관 등에서 소장 및 제공하고 있습니다.\u003cbr\u003e\n      이 네트워크는 위 기관에 소장된 『불조원류』 이본 중 사암본에 해당하는 14종을 검토한 후, 가장 온전한 인출본인 \n      \u003cstrong\u003e\n        \u003ca href\u003d\"https://kabc.dongguk.edu/viewer/view?dataId\u003dABC_NC_08185_0001\u0026imgId\u003dABC_NC_08185_0001_0001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e\n          불교기록문화유산아카이브 제공 김자현 소장본\n        \u003c/a\u003e\n      \u003c/strong\u003e을 바탕으로 제작되었습니다.\n    \u003c/p\u003e\n    \u003cblockquote\u003e\n      여기서의 \u0027가장 온전한 인출본\u0027이란, 여타 본과 비교하였을 때 인출 과정에서 누락된 내용이 없고, 인출 후 절취·도말 등의 수정이 없는 본을 말합니다.\n    \u003c/blockquote\u003e\n  \u003c/section\u003e\n\n  \u003csection\u003e\n    \u003cp\u003e\n      각 승려의 속성 정보로 생몰년, 협주가 있는 경우 협주의 원문과 번역문, 기타 사항을 적은 비고를 제공합니다.\u003cbr\u003e\n      비고에는 협주의 내용 중 오류가 있는 경우, 협주 내용에 대한 주석, 이본 별 삭제·미인출 여부를 적었습니다.\n    \u003c/p\u003e\n\n    \u003ch4\u003e비고에 부기한 이본 목록\u003c/h4\u003e\n    \u003cul\u003e\n      \u003cli\u003e\n        \u003cstrong\u003e\u003ca href\u003d\"https://kabc.dongguk.edu/viewer/view?dataId\u003dABC_NC_01184_0001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e동국대Ⓑ\u003c/a\u003e :\u003c/strong\u003e \n        불교기록문화유산아카이브에서 제공하는 본 중 표지 右下에 \u0027泉隱寺\u0027를 첨기한 본입니다.\n      \u003c/li\u003e\n      \u003cli\u003e\n        \u003cstrong\u003e\u003ca href\u003d\"https://kabc.dongguk.edu/viewer/view?dataId\u003dABC_NC_01184_0001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e동국대Ⓒ\u003c/a\u003e :\u003c/strong\u003e \n        불교기록문화유산아카이브에서 제공하는 본 중 표지 右下에 \u0027主福慧\u0027를 첨기한 본입니다.\n      \u003c/li\u003e\n      \u003cli\u003e\n        \u003cstrong\u003e고려대Ⓐ :\u003c/strong\u003e 고려대학교 도서관 청구기호 \u0027화산 C3 A104\u0027입니다.\n      \u003c/li\u003e\n      \u003cli\u003e\n        \u003cstrong\u003e\u003ca href\u003d\"https://kyudb.snu.ac.kr/book/view.do?book_cd\u003dGR30520_00\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e규장각Ⓐ\u003c/a\u003e :\u003c/strong\u003e \n        규장각 한국학연구원 청구기호 \u0027古1723-1\u0027입니다.\n      \u003c/li\u003e\n    \u003c/ul\u003e\n\n    \u003cp\u003e\n      규장각Ⓐ는 \n      \u003cstrong\u003e\u003ca href\u003d\"https://kabc.dongguk.edu/viewer/view?dataId\u003dABC_NC_06975_0001\u0026imgId\u003dABC_NC_06975_0001_0001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003e동국대Ⓓ\u003c/a\u003e\u003c/strong\u003e(청구기호 : \u0027D210.92 채 64 ㅅ.3\u0027), \n      동국대Ⓔ(청구기호 \u0027\u003cstrong\u003e\u003ca href\u003d\"https://kabc.dongguk.edu/viewer/view?dataId\u003dABC_NC_06975_0001\u0026imgId\u003dABC_NC_06975_0001_0001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003eD210.92채64ㅅv.1\u003c/a\u003e\u003c/strong\u003e, \u003cstrong\u003e\u003ca href\u003d\"https://kabc.dongguk.edu/viewer/view?dataId\u003dABC_NC_06974_0001\u0026imgId\u003dABC_NC_06974_0001_0001\" target\u003d\"_blank\" rel\u003d\"noopener noreferrer\"\u003ev.2\u003c/a\u003e\u003c/strong\u003e\u0027), \n      국중도Ⓐ(청구기호 \u0027위창古1725-11\u0027), 국중도Ⓑ(한古朝21-100)와 인쇄 형태가 같은 인출본입니다.\u003cbr\u003e\n      비고란에 \u0027규장각Ⓐ-인쇄되지 않음\u0027이라는 정보가 있다면, 이는 이상의 이본에도 동일하게 인쇄되어 있지 않다는 뜻입니다.\n    \u003c/p\u003e\n  \u003c/section\u003e\n\n  \u003csection\u003e\n    \u003ch4\u003e그래프 시각화 정보\u003c/h4\u003e\n    \u003cp\u003e\n      해당 그래프는 스승에서 제자로 향하는 \u003cstrong\u003e유방향 그래프\u003c/strong\u003e입니다.\u003cbr\u003e\n      노드의 색깔과 크기는 \u003cstrong\u003e\u0027Out-degree\u0027\u003c/strong\u003e에 따라 설정되었으며, 제자가 많을수록 노드는 크고 붉은 색에 가깝습니다.\n    \u003c/p\u003e\n  \u003c/section\u003e",
+    "intro": "『서역중화해동불조원류(西域中華海東佛祖源流)』의 해동원류(海東源流)에 실린 승려와 그 법맥 관계를 시각화했습니다.",
+    "title": "조선 후기 승려의 법맥 관계"
+  },
+  "legend": {
+    "edgeLabel": "법사(法師)와 법제(法弟) 관계",
+    "colorLabel": "Out-Degree",
+    "nodeLabel": "승려"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
